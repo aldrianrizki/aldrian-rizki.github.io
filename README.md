@@ -1,2 +1,0 @@
-# aldrianrizki.github.io
-Template
